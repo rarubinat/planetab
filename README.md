@@ -1,15 +1,15 @@
-# Planeta B 🌍
+# 🌍 Planeta B 
 
 **Planeta B** is an interactive educational project built with **HTML**, **CSS**, and **JavaScript**. It aims to provide an engaging learning experience through interactive elements and clear design. 🎓✨
 
-## Features 🚀
+## 🚀 Features 
 
 - 🌟 Interactive educational content  
 - 📱 Responsive design for all devices  
 - 🎯 User-friendly interface with intuitive navigation  
 - 🎨 Clean and modern visuals (HTML, CSS3, Javascript)
 
-## Installation 💻
+## 💻 Installation 
 
 Clone the repository and open the `index.html` file in your browser:
 
